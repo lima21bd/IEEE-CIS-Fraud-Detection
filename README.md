@@ -21,5 +21,5 @@ This project is inspired from IEEE-CIS Fraud Detection Kaggle competition, where
 
   ### Result:
 
-    XGBoost model gave the best score which is 91.15% but took too much time, around 25 mins 31 sec.
+    XGBoost model gave the best score which is 91.15% but took too much time, around 40 minutes.
 
