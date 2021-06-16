@@ -8,5 +8,5 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 #### About This Repository
 
--([x])Project 1 Instructions.pdf
+(-)([ ])Project 1 Instructions.pdf
 This document includes Upskill's instructions for submitting this project.
