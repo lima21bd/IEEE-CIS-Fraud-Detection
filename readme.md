@@ -28,4 +28,5 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
       
       This document contains Abstract, Methodology, Result Analysis of this project.
       
-![alt text](![image](https://user-images.githubusercontent.com/38761302/122279060-746eb600-cf09-11eb-9c25-e7d6f73c0378.png))
+![Untitled Diagram](https://user-images.githubusercontent.com/38761302/122279649-1c847f00-cf0a-11eb-8deb-68757e79b8a0.jpg)
+
