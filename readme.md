@@ -9,4 +9,22 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 #### About This Repository
 
 - [x] Project 1 Instructions.pdf
+      
       This document includes Upskill's instructions for submitting this project.
+
+- [x] Fraud Detection With 92.95% Accuracy.ipynb
+      
+      This notebook contains codes without cell output.
+      
+- [x] Correlation.csv
+
+      All the selected features correlation with the target class are included in this csv file.
+      
+- [x] Submission.csv
+
+      This output file was submitted to the Kaggle Competetion. This contaions TransactionID & Predictions of my model.
+      
+- [x] Report.pdf
+      
+      This document contains Abstract, Methodology, Result Analysis of this project.
+      
