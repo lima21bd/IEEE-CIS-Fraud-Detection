@@ -1,3 +1,5 @@
+![Untitled Diagram](https://user-images.githubusercontent.com/38761302/122283858-d1b93600-cf0e-11eb-9c3a-6def1b687ce2.jpg)
+
 ### IEEE-CIS-Fraud-Detection
 
 *Upskill ISA (Income Sharing Agreement) collaborated with Intelligent Machines offering a "Machine Learning Course" where only 39 shortlisted candidates are provided with the opportunity to take this course for free. The projects is completed by me uploaded in this repository.*
