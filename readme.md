@@ -34,4 +34,6 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 *Follow the Link: [Code with Output](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)*
 
+**Accuracy:** ![Accuracy](https://user-images.githubusercontent.com/38761302/122349651-42dc0600-cf6e-11eb-830f-c43dab8f7f70.png)
+
 **Let's explore & enjoy this repository** :grinning:
