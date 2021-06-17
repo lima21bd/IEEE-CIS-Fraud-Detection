@@ -36,4 +36,6 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 **Accuracy:** ![Accuracy](https://user-images.githubusercontent.com/38761302/122349651-42dc0600-cf6e-11eb-830f-c43dab8f7f70.png)
 
+> *“To do better is better than to be perfect.”*
+
 **Let's explore & enjoy this repository** :grinning:
