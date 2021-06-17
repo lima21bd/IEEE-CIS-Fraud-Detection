@@ -1,4 +1,4 @@
-![Untitled Diagram](https://user-images.githubusercontent.com/38761302/122283858-d1b93600-cf0e-11eb-9c3a-6def1b687ce2.jpg)
+![Picu](https://user-images.githubusercontent.com/38761302/122346719-18d51480-cf6b-11eb-8eb8-fcab26f631bd.png)
 
 ### IEEE-CIS-Fraud-Detection
 
