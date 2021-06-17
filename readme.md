@@ -20,11 +20,11 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
       
 - [x] Correlation.csv
 
-    All the selected features correlation with the target class are included in this csv file.
+    All the selected features correlation with respect to the target class are included in this csv file.
       
 - [x] Submission.csv
 
-    This output file was submitted to the Kaggle Competetion. This contaions TransactionID & Predictions of my model.
+    This output file was submitted to the Kaggle Competetion. This contaions Predictions made by my model for each TransactionID.
       
 - [x] Report.pdf
       
