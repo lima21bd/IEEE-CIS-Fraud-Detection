@@ -14,21 +14,17 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
       
     This document includes Upskill's instructions for submitting this project.
 
-- [x] Fraud Detection With 92.95% Accuracy.ipynb
+- [x] XGBoost_92.95
       
-    This notebook contains codes without cell output.
+  This directory contains **Three** documents for xgboost based model such as notebook without cell output, correlation of the important features with the target class & Kaggle       output submission file.
       
-- [x] Correlation.csv
+- [x] LGBM_93.64
 
-    All the selected features correlation with respect to the target class are included in this csv file.
-      
-- [x] Submission.csv
-
-    This output file was submitted to the Kaggle Competetion. This contaions Predictions made by my model for each TransactionID.
+  This directory contains **Three** documents for lgbm based model such as notebook without cell output, correlation of the important features with the target class & Kaggle           output submission file.
       
 - [x] Report.pdf
       
-    This document contains Abstract, Methodology, Result Analysis of this project.
+  This document contains Abstract, Methodology, Result Analysis of this project.
       
 ![Picpic](https://user-images.githubusercontent.com/38761302/122348218-c0067b80-cf6c-11eb-953d-e3d32517fd15.png)
 
