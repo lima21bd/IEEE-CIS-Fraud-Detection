@@ -16,15 +16,19 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 - [x] XGBoost_92.95
       
-  This directory contains **Three** documents for xgboost based model such as notebook without cell output, correlation of the important features with the target class & Kaggle       output submission file.
+  This directory contains **Three** documents for xgboost based model such as notebook without cell output, correlation of the important features with the target class & Kaggle   output submission file.
       
 - [x] LGBM_93.64
 
-  This directory contains **Three** documents for lgbm based model such as notebook without cell output, correlation of the important features with the target class & Kaggle           output submission file.
+  This directory contains **Three** documents for lgbm based model such as notebook without cell output, correlation of the important features with the target class & Kaggle       output submission file.
+  
+ - [x] Ensemble_93.89
+   
+   This directory contains **Two** documents of Code & Kaggle output submission file for the ensembled model made out of LGBM & XGBoost.
       
-- [x] Report.pdf
+ - [x] Report.pdf
       
-  This document contains Abstract, Methodology, Result Analysis of this project.
+   This document contains Abstract, Methodology, Result Analysis of this project.
       
 ![Link](https://user-images.githubusercontent.com/38761302/122549067-e6ebad00-d053-11eb-921b-ccad79637913.png)
 
