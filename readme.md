@@ -38,7 +38,7 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 Programming language: Python
 
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBClassifier
+Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBoost, LGBM
 
 Environment: Kaggle Notebook
 
