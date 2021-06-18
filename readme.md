@@ -45,6 +45,10 @@ Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBoost, LGBM
 
 Environment: Kaggle Notebook
 
+### Acknowledgements
+___
+Data Science Stack Exchange, Towards Data Science, Data Exploration and Feature Engineering Techniques of Kaggle Grandmasters.
+
 ### Accuracy:
 ___
 
