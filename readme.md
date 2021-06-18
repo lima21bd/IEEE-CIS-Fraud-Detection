@@ -28,7 +28,7 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
       
 ![Link](https://user-images.githubusercontent.com/38761302/122549067-e6ebad00-d053-11eb-921b-ccad79637913.png)
 
-*Follow the Link: [LGBM](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)* , [XGBoost]()
+*Follow the Link: [LGBM](https://www.kaggle.com/lima21bd/fraud-detection-with-93-64-accuracy)* , [XGBoost](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)
 
 **Accuracy:** ![Accuracy](https://user-images.githubusercontent.com/38761302/122349651-42dc0600-cf6e-11eb-830f-c43dab8f7f70.png)
 
