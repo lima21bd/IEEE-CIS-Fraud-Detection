@@ -1,6 +1,7 @@
 ![Picu](https://user-images.githubusercontent.com/38761302/122346719-18d51480-cf6b-11eb-8eb8-fcab26f631bd.png)
 
 ### IEEE-CIS-Fraud-Detection
+___
 
 > Upskill ISA (Income Sharing Agreement) collaborated with Intelligent Machines offering a "Machine Learning Course" where only 39 shortlisted candidates are provided with the opportunity to take this course for free. This project is completed by me uploaded in this repository.
 
@@ -8,7 +9,8 @@
 
 Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud-detection/data)
 
-#### About This Repository
+### About This Repository
+___
 
 - [x] Project 1 Instructions.pdf
       
@@ -34,7 +36,8 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 *Follow the Link: [LGBM](https://www.kaggle.com/lima21bd/fraud-detection-with-93-64-accuracy)* , [XGBoost](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)
 
-#### Dependencies
+### Dependencies
+___
 
 Programming language: Python
 
@@ -42,7 +45,8 @@ Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBoost, LGBM
 
 Environment: Kaggle Notebook
 
-**Accuracy:**           
+### Accuracy:
+___
 
 ![Accuracy](https://user-images.githubusercontent.com/38761302/122550160-2bc41380-d055-11eb-9923-2dccb029f136.png)
 
