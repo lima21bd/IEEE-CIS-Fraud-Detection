@@ -34,10 +34,19 @@ Dataset Link: [Let's Know About The Dataset](https://www.kaggle.com/c/ieee-fraud
 
 *Follow the Link: [LGBM](https://www.kaggle.com/lima21bd/fraud-detection-with-93-64-accuracy)* , [XGBoost](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)
 
+#### Dependencies
+
+Programming language: Python
+
+Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBClassifier
+
+Environment: Kaggle Notebook
+
 **Accuracy:**           
 
 ![Accuracy](https://user-images.githubusercontent.com/38761302/122550160-2bc41380-d055-11eb-9923-2dccb029f136.png)
 
 > *“To do better is better than to be perfect.”*
+
 
 **Let's explore & enjoy this repository** :grinning:
