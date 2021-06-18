@@ -47,7 +47,7 @@ Environment: Kaggle Notebook
 
 ### Acknowledgements
 ___
-Data Science Stack Exchange, Towards Data Science, Data Exploration and Feature Engineering Techniques of Kaggle Grandmasters.
+Data Science Stack Exchange, StackOverflow, Towards Data Science, Data Exploration and Feature Engineering Techniques of Kaggle Grandmasters.
 
 ### Accuracy:
 ___
@@ -56,5 +56,13 @@ ___
 
 > *“To do better is better than to be perfect.”*
 
+### Author
+___
+Khadija Akter Lima
+* [LinkedIn](https://www.linkedin.com/in/lima21bd/)
+* Email: lima1.cse@gmail.com
+
 
 **Let's explore & enjoy this repository** :grinning:
+
+
