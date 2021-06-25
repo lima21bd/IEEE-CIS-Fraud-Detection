@@ -34,7 +34,7 @@ ___
       
 ![Link](https://user-images.githubusercontent.com/38761302/122549067-e6ebad00-d053-11eb-921b-ccad79637913.png)
 
-*Follow the Link: [LGBM](https://www.kaggle.com/lima21bd/fraud-detection-with-93-64-accuracy)* , *[XGBoost](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)
+*Follow the Link: [LGBM](https://www.kaggle.com/lima21bd/fraud-detection-with-93-64-accuracy)* , *[XGBoost](https://www.kaggle.com/lima21bd/fraud-detection-with-92-95-accuracy)*
 
 ### Dependencies
 ___
